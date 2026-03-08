@@ -33,7 +33,7 @@
 /* LED
  *------------------------------------------------------------------*/
 #define LEDS_NUMBER 1
-#define LED_PRIMARY_PIN _PINNUM(1, 2) // red
+#define LED_PRIMARY_PIN _PINNUM(1, 2) // red, gpio 1,0 for v0.1.0 RIGHT
 #define LED_STATE_ON 1
 
 /* #define LED_RGB_RED_PIN _PINNUM(1, 2)   // red */
